@@ -1,3 +1,5 @@
+package com.example.sylkpong
+
 import android.graphics.Canvas
 import android.os.Build
 import android.view.SurfaceHolder
